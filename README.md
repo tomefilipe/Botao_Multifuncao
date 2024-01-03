@@ -1,5 +1,5 @@
 # Botao_Multifuncao
- Programa para botão com multifunção!
+ Botão multifuncional!
 
 	Um clic simples função 1
 	Um clic de 2 segundos função 2
